@@ -342,6 +342,7 @@
       <text x="0" y="12">Mon</text>
       <text x="0" y="38">Wed</text>
       <text x="0" y="64">Fri</text>
+      <text x="0" y="90">Sun</text>
     </g>
 
     <!-- Contribution grid: 52 weeks (auto-generated) -->
