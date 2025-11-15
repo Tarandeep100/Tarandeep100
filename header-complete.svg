@@ -316,21 +316,21 @@
     <!-- Stat 1: Years -->
     <g class="stat-box" style="animation-delay: 0.1s">
       <rect x="0" y="0" width="180" height="90" rx="10" fill="#1a1a3e" stroke="#00d4ff" stroke-width="2" opacity="0.8"/>
-      <text x="90" y="50" class="stat-value" text-anchor="middle">10+</text>
+      <text x="90" y="50" class="stat-value" text-anchor="middle">6</text>
       <text x="90" y="72" class="stat-label" text-anchor="middle">Years Coding</text>
     </g>
 
     <!-- Stat 2: Repositories -->
     <g class="stat-box" style="animation-delay: 0.2s" transform="translate(210, 0)">
       <rect x="0" y="0" width="180" height="90" rx="10" fill="#1a1a3e" stroke="#00d4ff" stroke-width="2" opacity="0.8"/>
-      <text x="90" y="50" class="stat-value" text-anchor="middle">206+</text>
+      <text x="90" y="50" class="stat-value" text-anchor="middle">50+</text>
       <text x="90" y="72" class="stat-label" text-anchor="middle">Repositories</text>
     </g>
 
     <!-- Stat 3: Contributions -->
     <g class="stat-box" style="animation-delay: 0.3s" transform="translate(420, 0)">
       <rect x="0" y="0" width="180" height="90" rx="10" fill="#1a1a3e" stroke="#00d4ff" stroke-width="2" opacity="0.8"/>
-      <text x="90" y="50" class="stat-value" text-anchor="middle">1.3k+</text>
+      <text x="90" y="50" class="stat-value" text-anchor="middle">3.5k+</text>
       <text x="90" y="72" class="stat-label" text-anchor="middle">Contributions</text>
     </g>
   </g>
