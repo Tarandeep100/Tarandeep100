@@ -305,13 +305,10 @@
     <circle class="particle" cx="200" cy="150" r="2" fill="#f107a3" style="animation-delay: 0.5s"/>
 
     <!-- Main title -->
-    <text x="600" y="90" class="main-title">VINAY SINGH</text>
+    <text x="600" y="90" class="main-title">TARANDEEP SINGH</text>
 
     <!-- Subtitle -->
-    <text x="600" y="130" class="subtitle">🚀 Founder &amp; CEO, Ajna Inc</text>
-
-    <!-- Tagline -->
-    <text x="600" y="160" class="tagline">Building Blockchain &amp; Self-Sovereign Identity Solutions for the Decentralized Web</text>
+    <text x="600" y="130" class="subtitle">Software Engineer</text>
   </g>
 
   <!-- SECTION 2: STATS (Y: 200-310) -->
@@ -726,22 +723,22 @@
     <g transform="translate(155, 515)">
       <g class="tech-badge" style="animation-delay: 0.1s">
         <rect x="0" y="0" width="100" height="35" rx="17.5" fill="#7b2ff7" opacity="0.9"/>
-        <text x="50" y="23" text-anchor="middle" fill="white" class="badge-text">Solidity</text>
+        <text x="50" y="23" text-anchor="middle" fill="white" class="badge-text">React</text>
       </g>
 
       <g class="tech-badge" style="animation-delay: 0.15s" transform="translate(110, 0)">
         <rect x="0" y="0" width="100" height="35" rx="17.5" fill="#00d4ff" opacity="0.9"/>
-        <text x="50" y="23" text-anchor="middle" fill="#0a0a1f" class="badge-text">Ethereum</text>
+        <text x="50" y="23" text-anchor="middle" fill="#0a0a1f" class="badge-text">JavaScript</text>
       </g>
 
       <g class="tech-badge" style="animation-delay: 0.2s" transform="translate(220, 0)">
         <rect x="0" y="0" width="100" height="35" rx="17.5" fill="#f107a3" opacity="0.9"/>
-        <text x="50" y="23" text-anchor="middle" fill="white" class="badge-text">DIDComm</text>
+        <text x="50" y="23" text-anchor="middle" fill="white" class="badge-text">Next.js</text>
       </g>
 
       <g class="tech-badge" style="animation-delay: 0.25s" transform="translate(330, 0)">
         <rect x="0" y="0" width="100" height="35" rx="17.5" fill="#7b2ff7" opacity="0.9"/>
-        <text x="50" y="23" text-anchor="middle" fill="white" class="badge-text">Rust</text>
+        <text x="50" y="23" text-anchor="middle" fill="white" class="badge-text">TypeScript</text>
       </g>
 
       <g class="tech-badge" style="animation-delay: 0.3s" transform="translate(440, 0)">
@@ -750,23 +747,14 @@
       </g>
 
       <g class="tech-badge" style="animation-delay: 0.35s" transform="translate(550, 0)">
-        <rect x="0" y="0" width="120" height="35" rx="17.5" fill="#f107a3" opacity="0.9"/>
-        <text x="60" y="23" text-anchor="middle" fill="white" class="badge-text">TypeScript</text>
-      </g>
-
-      <g class="tech-badge" style="animation-delay: 0.4s" transform="translate(680, 0)">
-        <rect x="0" y="0" width="100" height="35" rx="17.5" fill="#7b2ff7" opacity="0.9"/>
-        <text x="50" y="23" text-anchor="middle" fill="white" class="badge-text">OpenVM</text>
-      </g>
-
-      <g class="tech-badge" style="animation-delay: 0.45s" transform="translate(790, 0)">
         <rect x="0" y="0" width="100" height="35" rx="17.5" fill="#00d4ff" opacity="0.9"/>
-        <text x="50" y="23" text-anchor="middle" fill="#0a0a1f" class="badge-text">Docker</text>
+        <text x="50" y="23" text-anchor="middle" fill="#0a0a1f" class="badge-text">Python</text>
       </g>
+
     </g>
 
     <!-- Tech badges - Row 2 (centered) -->
-    <g transform="translate(470, 560)">
+    <!-- <g transform="translate(470, 560)">
       <g class="tech-badge" style="animation-delay: 0.5s">
         <rect x="0" y="0" width="80" height="35" rx="17.5" fill="#f107a3" opacity="0.9"/>
         <text x="40" y="23" text-anchor="middle" fill="white" class="badge-text">IPFS</text>
@@ -776,6 +764,6 @@
         <rect x="0" y="0" width="90" height="35" rx="17.5" fill="#7b2ff7" opacity="0.9"/>
         <text x="45" y="23" text-anchor="middle" fill="white" class="badge-text">AI Agents</text>
       </g>
-    </g>
+    </g> -->
   </g>
 </svg>
