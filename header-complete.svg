@@ -360,14 +360,14 @@
       <rect class="contrib-cell" x="14" y="45" width="12" height="12" rx="2" fill="#1a1a3e" opacity="1" style="animation-delay: 0.20s"/>
       <rect class="contrib-cell" x="14" y="60" width="12" height="12" rx="2" fill="#1a1a3e" opacity="1" style="animation-delay: 0.21s"/>
       <rect class="contrib-cell" x="14" y="75" width="12" height="12" rx="2" fill="#1a1a3e" opacity="1" style="animation-delay: 0.22s"/>
-      <rect class="contrib-cell" x="14" y="90" width="12" height="12" rx="2" fill="#1a1a3e" opacity="1" style="animation-delay: 0.23s"/>
+      <rect class="contrib-cell" x="14" y="90" width="12" height="12" rx="2" fill="#0d3d56" opacity="1" style="animation-delay: 0.23s"/>
       <rect class="contrib-cell" x="28" y="0" width="12" height="12" rx="2" fill="#1a1a3e" opacity="1" style="animation-delay: 0.24s"/>
       <rect class="contrib-cell" x="28" y="15" width="12" height="12" rx="2" fill="#1a1a3e" opacity="1" style="animation-delay: 0.25s"/>
       <rect class="contrib-cell" x="28" y="30" width="12" height="12" rx="2" fill="#1a1a3e" opacity="1" style="animation-delay: 0.26s"/>
       <rect class="contrib-cell" x="28" y="45" width="12" height="12" rx="2" fill="#1a1a3e" opacity="1" style="animation-delay: 0.27s"/>
       <rect class="contrib-cell" x="28" y="60" width="12" height="12" rx="2" fill="#1a1a3e" opacity="1" style="animation-delay: 0.28s"/>
       <rect class="contrib-cell" x="28" y="75" width="12" height="12" rx="2" fill="#1a1a3e" opacity="1" style="animation-delay: 0.29s"/>
-      <rect class="contrib-cell" x="28" y="90" width="12" height="12" rx="2" fill="#0d3d56" opacity="1" style="animation-delay: 0.30s"/>
+      <rect class="contrib-cell" x="28" y="90" width="12" height="12" rx="2" fill="#1a1a3e" opacity="1" style="animation-delay: 0.30s"/>
       <rect class="contrib-cell" x="42" y="0" width="12" height="12" rx="2" fill="#1a1a3e" opacity="1" style="animation-delay: 0.31s"/>
       <rect class="contrib-cell" x="42" y="15" width="12" height="12" rx="2" fill="#1a1a3e" opacity="1" style="animation-delay: 0.32s"/>
       <rect class="contrib-cell" x="42" y="30" width="12" height="12" rx="2" fill="#1a1a3e" opacity="1" style="animation-delay: 0.33s"/>
@@ -705,12 +705,6 @@
       <rect class="contrib-cell" x="700" y="75" width="12" height="12" rx="2" fill="#1a1a3e" opacity="1" style="animation-delay: 3.65s"/>
       <rect class="contrib-cell" x="700" y="90" width="12" height="12" rx="2" fill="#1a1a3e" opacity="1" style="animation-delay: 3.66s"/>
       <rect class="contrib-cell" x="714" y="0" width="12" height="12" rx="2" fill="#1a1a3e" opacity="1" style="animation-delay: 3.67s"/>
-      <rect class="contrib-cell" x="714" y="15" width="12" height="12" rx="2" fill="#1a1a3e" opacity="1" style="animation-delay: 3.68s"/>
-      <rect class="contrib-cell" x="714" y="30" width="12" height="12" rx="2" fill="#1a1a3e" opacity="1" style="animation-delay: 3.69s"/>
-      <rect class="contrib-cell" x="714" y="45" width="12" height="12" rx="2" fill="#1a1a3e" opacity="1" style="animation-delay: 3.70s"/>
-      <rect class="contrib-cell" x="714" y="60" width="12" height="12" rx="2" fill="#1a1a3e" opacity="1" style="animation-delay: 3.71s"/>
-      <rect class="contrib-cell" x="714" y="75" width="12" height="12" rx="2" fill="#1a1a3e" opacity="1" style="animation-delay: 3.72s"/>
-      <rect class="contrib-cell" x="714" y="90" width="12" height="12" rx="2" fill="#1a1a3e" opacity="1" style="animation-delay: 3.73s"/>
     </g>
 
   </g>
